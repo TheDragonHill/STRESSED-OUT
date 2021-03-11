@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Resource
+  - Consumeable
+  - EnterRight
+  - EnterLeft
+  - EnterUp
+  - EnterDown
+  - Enemy
+  - Neutral
+  - Equippable
+  - Miscellaneous
+  - Consumable
+  - BuildRadius
+  - Projectile
+  - Gatherable
+  - Building
+  - Chunk
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entity
+  - Environment
+  - Player
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DropedItem
+    uniqueID: 4267789825
+    locked: 0
+  - name: UI
+    uniqueID: 171591769
+    locked: 0
